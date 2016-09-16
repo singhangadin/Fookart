@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ROWSET>
+ <ROW>
+  <PROD_ID>53</PROD_ID>
+  <PROD_NAME>Nikon D3300</PROD_NAME>
+  <PRICE>39479</PRICE>
+  <DESCRIPT>(AF-S 18-55 mm VR Kit Lens II/ AF-S 55-200 mm VR Kit DSLR Camera/ 24.2/ CMOS/ with 3 LCD)</DESCRIPT>
+  <IMG_PATH>images/products/cameras/53.jpeg</IMG_PATH>
+  <CLICKS>10</CLICKS>
+  <QUANT>120</QUANT>
+  <CATEGORY>camera</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>54</PROD_ID>
+  <PROD_NAME>Nikon D5200</PROD_NAME>
+  <PRICE>30057</PRICE>
+  <DESCRIPT>(AF-S DX NIKKOR 18-55 mm F/3.5-5.6G VR II Lens/ 24.1/ CMOS/with 3 LCD)</DESCRIPT>
+  <IMG_PATH>images/products/cameras/54.jpeg</IMG_PATH>
+  <CLICKS>2</CLICKS>
+  <QUANT>120</QUANT>
+  <CATEGORY>camera</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>56</PROD_ID>
+  <PROD_NAME>Sony Alpha SLT-A99V</PROD_NAME>
+  <PRICE>139990</PRICE>
+  <DESCRIPT>(24.3/ CMOS/ 3 LCD)</DESCRIPT>
+  <IMG_PATH>images/products/cameras/56.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>camera</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>57</PROD_ID>
+  <PROD_NAME>Sony Alpha ILCA-77M2</PROD_NAME>
+  <PRICE>109000</PRICE>
+  <DESCRIPT>(24.3/ CMOS/ 3 LCD)</DESCRIPT>
+  <IMG_PATH>images/products/cameras/57.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>camera</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>42</PROD_ID>
+  <PROD_NAME>Superlux HD-631</PROD_NAME>
+  <PRICE>5160</PRICE>
+  <DESCRIPT>(Stereo Dynamic Headphone/ Over the Head/ Wired Headphones)</DESCRIPT>
+  <IMG_PATH>images/products/headphones/42.jpeg</IMG_PATH>
+  <CLICKS>5</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>headphone</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>43</PROD_ID>
+  <PROD_NAME>Fadedge Beatz Studio</PROD_NAME>
+  <PRICE>4267</PRICE>
+  <DESCRIPT>(Spider High Quality/ Stereo Dynamic Headphone / Wired Headphones)</DESCRIPT>
+  <IMG_PATH>images/products/headphones/43.jpeg</IMG_PATH>
+  <CLICKS>8</CLICKS>
+  <QUANT>121</QUANT>
+  <CATEGORY>headphone</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>45</PROD_ID>
+  <PROD_NAME>Beyerdynamic T1</PROD_NAME>
+  <PRICE>81349</PRICE>
+  <DESCRIPT>(Over-the-ear Headphone/ Over-the-ear Headphone/ 300 mW Max Power Input/ Wired Connectivity)</DESCRIPT>
+  <IMG_PATH>images/products/headphones/45.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>headphone</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>46</PROD_ID>
+  <PROD_NAME>Beyerdynamic T5p</PROD_NAME>
+  <PRICE>81349</PRICE>
+  <DESCRIPT>(Wired Connectivity/ Over-the-head/ 300 mW Max Power Input/ Over-the-ear Headphone)</DESCRIPT>
+  <IMG_PATH>images/products/headphones/46.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>headphone</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>1</PROD_ID>
+  <PROD_NAME>HP 15-r244TX</PROD_NAME>
+  <PRICE>34990</PRICE>
+  <DESCRIPT>(Notebook) (Core i3 4th Gen/ 8GB/ 1TB/ Free DOS/ 2GB Graphic Card)</DESCRIPT>
+  <IMG_PATH>images/products/laptops/1.jpg</IMG_PATH>
+  <CLICKS>6</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>laptop</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>3</PROD_ID>
+  <PROD_NAME>Dell Inspiron 7348</PROD_NAME>
+  <PRICE>73200</PRICE>
+  <DESCRIPT>(2-in-1 Laptop) (Core i7 5th Gen/ 8GB/ 500GB/ Win8.1/ Touch)</DESCRIPT>
+  <IMG_PATH>images/products/laptops/3.jpg</IMG_PATH>
+  <CLICKS>2</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>laptop</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>5</PROD_ID>
+  <PROD_NAME>iBall Netbook</PROD_NAME>
+  <PRICE>13990</PRICE>
+  <DESCRIPT>(2-in-1) (Atom Quad Core Processor/ 2GB/ 32GB Built-in Storage/ Win8.1)</DESCRIPT>
+  <IMG_PATH>images/products/laptops/5.jpg</IMG_PATH>
+  <CLICKS>3</CLICKS>
+  <QUANT>122</QUANT>
+  <CATEGORY>laptop</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>7</PROD_ID>
+  <PROD_NAME>MSI Dominator Pro GT72</PROD_NAME>
+  <PRICE>220000</PRICE>
+  <DESCRIPT>(2QE Notebook) (3rd Gen Core i7/ 8GB/ 1TB/ Win8.1/ 8GB Graph) ( GTX 980M)</DESCRIPT>
+  <IMG_PATH>images/products/laptops/7.jpg</IMG_PATH>
+  <CLICKS>3</CLICKS>
+  <QUANT>121</QUANT>
+  <CATEGORY>laptop</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>11</PROD_ID>
+  <PROD_NAME>Moto G (2nd Generation)</PROD_NAME>
+  <PRICE>9999</PRICE>
+  <DESCRIPT>(Android v4.4.4 OS/ Dual Sim/ 5 inch HD Screen/ 8 MP Primary Camera)</DESCRIPT>
+  <IMG_PATH>images/products/mobiles/11.jpeg</IMG_PATH>
+  <CLICKS>2</CLICKS>
+  <QUANT>122</QUANT>
+  <CATEGORY>mobile</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>13</PROD_ID>
+  <PROD_NAME>Moto Turbo</PROD_NAME>
+  <PRICE>41999</PRICE>
+  <DESCRIPT>(Turbo Charging/ Display : 5.2 inch QHD @ 565 ppi/ 3900 mAh Battery/ 21 MP Primary Camera)</DESCRIPT>
+  <IMG_PATH>images/products/mobiles/13.jpeg</IMG_PATH>
+  <CLICKS>6</CLICKS>
+  <QUANT>121</QUANT>
+  <CATEGORY>mobile</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>16</PROD_ID>
+  <PROD_NAME>Asus Zenfone 6</PROD_NAME>
+  <PRICE>15999</PRICE>
+  <DESCRIPT>(Android v4.3 OS/ Dual Sim / 2 MP Secondary Camera/ 13 MP Primary Camera)</DESCRIPT>
+  <IMG_PATH>images/products/mobiles/16.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>mobile</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>17</PROD_ID>
+  <PROD_NAME>Microsoft Lumia 640</PROD_NAME>
+  <PRICE>8999</PRICE>
+  <DESCRIPT>(2500 mAh Battery/ 8 MP Primary Camera/ 5 inch HD Screen/ Windows Phone 8.1 OS)</DESCRIPT>
+  <IMG_PATH>images/products/mobiles/17.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>mobile</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>31</PROD_ID>
+  <PROD_NAME>LG 55EA9700</PROD_NAME>
+  <PRICE>409900</PRICE>
+  <DESCRIPT>(Full HD, 1920 x 1080/3D TV, Smart TV/4 x HDMI, 3 x USB/Built-in Wi-Fi)</DESCRIPT>
+  <IMG_PATH>images/products/televisions/31.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>television</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>32</PROD_ID>
+  <PROD_NAME>Sony KD-55X8500B</PROD_NAME>
+  <PRICE>229900</PRICE>
+  <DESCRIPT>(Ultra HD 4K 3840 x 2160 /3D TV, Smart TV / 4 x HDMI, 3 x USB/  
+Built-in Wi-Fi)</DESCRIPT>
+  <IMG_PATH>images/products/televisions/32.jpeg</IMG_PATH>
+  <CLICKS>2</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>television</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>33</PROD_ID>
+  <PROD_NAME>Samsung 55JU6470</PROD_NAME>
+  <PRICE>169900</PRICE>
+  <DESCRIPT>(Ultra HD (4K) 3840 x 2160 / Smart TV/4 x HDMI, 3 x USB / Built-in Wi-Fi)</DESCRIPT>
+  <IMG_PATH>images/products/televisions/33.jpeg</IMG_PATH>
+  <CLICKS>4</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>television</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>35</PROD_ID>
+  <PROD_NAME>Samsung 55J6300</PROD_NAME>
+  <PRICE>149900</PRICE>
+  <DESCRIPT>(Full HD, 1920 x 1080 / Smart TV / 4 x HDMI, 3 x USB / Built-in Wi-Fi)</DESCRIPT>
+  <IMG_PATH>images/products/televisions/35.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>television</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>36</PROD_ID>
+  <PROD_NAME>LG 55UF670T</PROD_NAME>
+  <PRICE>127990</PRICE>
+  <DESCRIPT>(Ultra HD (4K), 3840 x 2160 / 2 x HDMI, 1 x USB)</DESCRIPT>
+  <IMG_PATH>images/products/televisions/36.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>television</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>22</PROD_ID>
+  <PROD_NAME>Nomon Analog</PROD_NAME>
+  <PRICE>160104</PRICE>
+  <DESCRIPT>(Wall Clock) (70 cm Diameter/Steel/Round)</DESCRIPT>
+  <IMG_PATH>images/products/watches/22.jpeg</IMG_PATH>
+  <CLICKS>12</CLICKS>
+  <QUANT>113</QUANT>
+  <CATEGORY>watch</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>24</PROD_ID>
+  <PROD_NAME>Grovana 1703.6111</PROD_NAME>
+  <PRICE>72739</PRICE>
+  <DESCRIPT>(Analog Watch) (Dial Color: Yellow/Dial Shape: Round/Strap Color: Brown)</DESCRIPT>
+  <IMG_PATH>images/products/watches/24.jpeg</IMG_PATH>
+  <CLICKS>8</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>watch</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>51</PROD_ID>
+  <PROD_NAME>Nikon D5300</PROD_NAME>
+  <PRICE>43956</PRICE>
+  <DESCRIPT>(Body with AF-S DX NIKKOR 18-55 mm f/ 3.5-5.6G VR II/ 24.2/ CMOS/ with 3.2 LCD)</DESCRIPT>
+  <IMG_PATH>images/products/cameras/51.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>camera</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>52</PROD_ID>
+  <PROD_NAME>Canon EOS 1200D Kit</PROD_NAME>
+  <PRICE>31445</PRICE>
+  <DESCRIPT>(EF S18-55 IS II/ 55-250 mm IS II/ 18/ CMOS/ with 3 LCD)</DESCRIPT>
+  <IMG_PATH>images/products/cameras/52.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>camera</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>55</PROD_ID>
+  <PROD_NAME>Nikon D3200</PROD_NAME>
+  <PRICE>24559</PRICE>
+  <DESCRIPT>(AF-S DX NIKKOR 18-55mm f/3.5-5.6G VR II Lens/ 24.2/ CMOS/ with 3 LCD)</DESCRIPT>
+  <IMG_PATH>images/products/cameras/55.jpeg</IMG_PATH>
+  <CLICKS>1</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>camera</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>41</PROD_ID>
+  <PROD_NAME>Skullcandy S2IKDY</PROD_NAME>
+  <PRICE>1049</PRICE>
+  <DESCRIPT>(In-the-ear Headphone/ In-ear-canalphone/ Wired Connectivity/ Built-in Mic)</DESCRIPT>
+  <IMG_PATH>images/products/headphones/41.jpeg</IMG_PATH>
+  <CLICKS>2</CLICKS>
+  <QUANT>121</QUANT>
+  <CATEGORY>headphone</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>44</PROD_ID>
+  <PROD_NAME>Sennheiser HD 800</PROD_NAME>
+  <PRICE>85500</PRICE>
+  <DESCRIPT>(Wired Headphones/ Circum-aural Headphones/ Over the Ear Headphone/ Over the Head/ 14-44100 Hz Frequency)</DESCRIPT>
+  <IMG_PATH>images/products/headphones/44.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>headphone</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>47</PROD_ID>
+  <PROD_NAME>Sennheiser HD 700</PROD_NAME>
+  <PRICE>58999</PRICE>
+  <DESCRIPT>(Circum-aural Headphones/ Over the Ear Headphone/ Wired Connectivity/ Over the Head)</DESCRIPT>
+  <IMG_PATH>images/products/headphones/47.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>headphone</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>2</PROD_ID>
+  <PROD_NAME>Lenovo G50-70</PROD_NAME>
+  <PRICE>25989</PRICE>
+  <DESCRIPT>(Notebook) (4th Gen Ci3/ 4GB/ 1TB/ Free DOS)</DESCRIPT>
+  <IMG_PATH>images/products/laptops/2.jpg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>laptop</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>4</PROD_ID>
+  <PROD_NAME>Acer C720</PROD_NAME>
+  <PRICE>14858</PRICE>
+  <DESCRIPT>(Chromebook Netbook) (Celeron Dual Core 4th Gen/ 2GB/ 16GB/ Chrome OS)</DESCRIPT>
+  <IMG_PATH>images/products/laptops/4.jpg</IMG_PATH>
+  <CLICKS>3</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>laptop</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>6</PROD_ID>
+  <PROD_NAME>Acer Aspire E5-551G</PROD_NAME>
+  <PRICE>33990</PRICE>
+  <DESCRIPT>(Notebook) (APU Quad Core A10/ 8GB/ 1TB/ Linux/ 2GB Graph) (NX.MLESI.001)</DESCRIPT>
+  <IMG_PATH>images/products/laptops/6.jpg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>laptop</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>12</PROD_ID>
+  <PROD_NAME>Nexus 6</PROD_NAME>
+  <PRICE>39999</PRICE>
+  <DESCRIPT>(Turbo Charging/ 2.7 GHz Processor/ 5.94 inch QHD AMOLED Screen/ Android-Lollipop)</DESCRIPT>
+  <IMG_PATH>images/products/mobiles/12.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>mobile</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>14</PROD_ID>
+  <PROD_NAME>Moto X (2nd Generation)</PROD_NAME>
+  <PRICE>23999</PRICE>
+  <DESCRIPT>(13 MP Primary Camera/ Android v4.4.4 OS/ 5.2 inch Touchscreen/ 2.5 GHz Processor)</DESCRIPT>
+  <IMG_PATH>images/products/mobiles/14.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>mobile</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>15</PROD_ID>
+  <PROD_NAME>Asus Zenfone 2 ZE551ML</PROD_NAME>
+  <PRICE>19999</PRICE>
+  <DESCRIPT>(Android- Lollipop/ 13 MP Primary Camera/ 5 MP Secondary Camera/ Dual Sim)</DESCRIPT>
+  <IMG_PATH>images/products/mobiles/15.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>mobile</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>34</PROD_ID>
+  <PROD_NAME>Sony BRAVIA KDL-55W800C</PROD_NAME>
+  <PRICE>149900</PRICE>
+  <DESCRIPT>(Full HD, 1920 x 1080 / 3D TV, Smart TV / 4 x HDMI, 2 x USB)</DESCRIPT>
+  <IMG_PATH>images/products/televisions/34.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>television</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>37</PROD_ID>
+  <PROD_NAME>Samsung 48JU6470</PROD_NAME>
+  <PRICE>124900</PRICE>
+  <DESCRIPT>(Ultra HD (4K), 3840 x 2160 / Smart TV / 4 x HDMI, 3 x USB / Built-in Wi-Fi)</DESCRIPT>
+  <IMG_PATH>images/products/televisions/37.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>television</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>21</PROD_ID>
+  <PROD_NAME>Formex 900.1.8084</PROD_NAME>
+  <PRICE>355670</PRICE>
+  <DESCRIPT>(Analog Watch) (Dial Color: Black, Gold/Dial Shape: Round/Strap Color: Black)</DESCRIPT>
+  <IMG_PATH>images/products/watches/21.jpeg</IMG_PATH>
+  <CLICKS>2</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>watch</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>23</PROD_ID>
+  <PROD_NAME>Formex 15001.8023</PROD_NAME>
+  <PRICE>88915</PRICE>
+  <DESCRIPT>(Analog Watch) (Dial Color: Black/Dial Shape: Round/Strap Color: Multi-colored)</DESCRIPT>
+  <IMG_PATH>images/products/watches/23.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>watch</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>25</PROD_ID>
+  <PROD_NAME>Movado 0605832</PROD_NAME>
+  <PRICE>68310</PRICE>
+  <DESCRIPT>(Analog Watch) (Dial Color: Black/Dial Shape: Round/Strap Color: Silver)</DESCRIPT>
+  <IMG_PATH>images/products/watches/25.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>watch</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>26</PROD_ID>
+  <PROD_NAME>Suunto SS020674000</PROD_NAME>
+  <PRICE>61950</PRICE>
+  <DESCRIPT>(Digital Watch) (Dial Shape: Round/Strap Color: Black)</DESCRIPT>
+  <IMG_PATH>images/products/watches/26.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>watch</CATEGORY>
+ </ROW>
+ <ROW>
+  <PROD_ID>27</PROD_ID>
+  <PROD_NAME>Nomon Wood Clock</PROD_NAME>
+  <PRICE>56280</PRICE>
+  <DESCRIPT>(Analog Watch) (Wood/Width: 73)</DESCRIPT>
+  <IMG_PATH>images/products/watches/27.jpeg</IMG_PATH>
+  <CLICKS>0</CLICKS>
+  <QUANT>123</QUANT>
+  <CATEGORY>watch</CATEGORY>
+ </ROW>
+</ROWSET>

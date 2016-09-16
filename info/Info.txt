@@ -1,0 +1,1 @@
+Fookart.sql file is backup file of database used by Web Application. Restore file to your local MySQL database. Connection urls might be different. Database username,password and connection use can be changed from TableData.java in com.project.model package. 
