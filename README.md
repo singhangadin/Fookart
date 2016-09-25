@@ -4,8 +4,6 @@
 Fookart is an e-commerce web application for buying electronic items like Cameras, Headphones, Laptop, Mobile, Television and 
 Watches etc. The technology used for developing this web application is Java 2 Enterprise Edition. 
 
-
-
 ##ScreenShots
 
 ![Screenshot 1](https://raw.githubusercontent.com/Angads25/Fookart/master/screenshots/fookart1.png)
